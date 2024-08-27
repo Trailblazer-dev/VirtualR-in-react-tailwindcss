@@ -1,1 +1,0 @@
-# ResponsiveLandigPage:React+TailwindCss
