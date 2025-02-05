@@ -1,4 +1,4 @@
-# ResponsiveLandingPage-React-TailwindCss
+# VirtualR-LandingPage-in-React-TailwindCss
 
 This project is a responsive landing page built using React and styled with Tailwind CSS. It is designed to be fully responsive, ensuring a seamless experience across devices of all sizes. The project is hosted on Vercel and can be viewed [here](https://responsive-landig-page-react-tailwind-css.vercel.app/).
 
